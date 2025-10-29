@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.options {
+  column-gap: 15px;
+}
+
+.options_item {
+  cursor: pointer;
+}
+
+.options2 {
+  width: -moz-available;
+  width: -webkit-fill-available;
+  width: stretch;
+  overflow: auto;
+}
